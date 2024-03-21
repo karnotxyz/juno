@@ -1,6 +1,6 @@
 {
     "gateway": {
-        "max_calldata_length": 4000,
+        "max_calldata_length": 24000,
         "max_contract_bytecode_size": 61440
     },
     "invoke_tx_max_n_steps": 3000000,
