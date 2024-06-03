@@ -1,6 +1,6 @@
 {
   "gateway": {
-    "max_calldata_length": 4000,
+    "max_calldata_length": 30000,
     "max_contract_bytecode_size": 61440
   },
   "invoke_tx_max_n_steps": 17000000,
@@ -379,7 +379,7 @@
       }
     }
   },
-  "validate_max_n_steps": 1000000,
+  "validate_max_n_steps": 4000000,
   "vm_resource_fee_cost": {
     "bitwise_builtin": 0.32,
     "ec_op_builtin": 5.12,
